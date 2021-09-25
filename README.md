@@ -20,8 +20,7 @@
 
   -  For educational purpose : i am looking to clone most of the applications I have used in my life using React js, 
            here's just a few!👇 
-
-          Linkedin | Google | Spotify | Amazon |Instagram | Youtube | Slack | Facebook | Snapchat | Tiktok + Many More
+Linkedin | Google | Spotify | Amazon |Instagram | Youtube | Slack | Facebook | Snapchat | Tiktok + Many More
 
 - 🔭 I’m currently working on improving my skills as a front end web developer that's why i use frontend mentor challenges 
 <!-- - ⚡ Fun fact **I play games and go to the GYM very often.** -->
