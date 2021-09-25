@@ -6,14 +6,6 @@
 
 ## 🙋‍♂️ About Me
 
-<!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
-
-<!-- - 🌱 I’m currently learning **Data Structures and Algorithms.** -->
-
-<!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
-
-<!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
-
 - 📫 How to reach me **aymanktari31@gmail.com**
 - 🌱 My goals in the next 100 days 
    - 2 - 3 interview questions every day from leetcode
@@ -22,8 +14,8 @@
            here's just a few!👇 
 Linkedin | Google | Spotify | Amazon |Instagram | Youtube | Slack | Facebook | Snapchat | Tiktok + Many More
 
-- 🔭 I’m currently working on improving my skills as a front end web developer that's why i use frontend mentor challenges 
-<!-- - ⚡ Fun fact **I play games and go to the GYM very often.** -->
+- 🔭 I’m currently working on improving my skills as a Web Developer using frontend mentor challenges 
+
 
 
 ##  
@@ -42,9 +34,6 @@ Linkedin | Google | Spotify | Amazon |Instagram | Youtube | Slack | Facebook | S
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     
 </p>
-
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
 
 <p align="center">
     <a href="https://github.com/ktariayman/github-readme-streak-stats">
@@ -66,9 +55,3 @@ Linkedin | Google | Spotify | Amazon |Instagram | Youtube | Slack | Facebook | S
 
 <a href="https://github.com/ktariayman/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ktariayman&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<!-- 
- ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=ktariayman">
-</a>
-<a href="https://github.com/ktariayman?tab=followers"><img src="https://img.shields.io/github/followers/ktariayman?label=Followers&style=social" alt="GitHub Badge"></a>  -->
