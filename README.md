@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **aymanktari31@gmail.com**
 - 🌱 My goals in the next 100 days 
-//   - 2 - 3 interview questions every day from leetcode
+  
 
   -  For educational purpose : i am looking to clone most of the applications I have used in my life using React js, 
            here's just a few!👇 
