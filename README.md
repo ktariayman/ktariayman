@@ -10,12 +10,6 @@
 - 🌱 My goals in the next 100 days 
   
 
-  -  For educational purpose : i am looking to clone most of the applications I have used in my life using React js, 
-           here's just a few!👇 
-Linkedin | Google | Spotify | Amazon |Instagram | Youtube | Slack | Facebook | Snapchat | Tiktok + Many More
-
-- 🔭 I’m currently working on improving my skills as a Web Developer using frontend mentor challenges 
-
 
 
 ##  
