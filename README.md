@@ -86,6 +86,6 @@ I believe collaboration is where creativity thrives, and I enjoy working with pe
 
 <p align="center">
   <a href="mailto:aymanktari31@gmail.com"><img src="https://img.icons8.com/fluent/48/gmail-new.png"/></a>
-  <a href="https://www.linkedin.com/in/aymanktari/"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
+  <a href="https://www.linkedin.com/in/ktariayman/"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
   <a href="https://github.com/ktariayman"><img src="https://img.icons8.com/glyph-neue/48/github.png"/></a>
 </p>
